@@ -1,0 +1,97 @@
+
+.logo{
+    position: absolute;
+    right: 79.76%;
+    height: 35px;
+    width: 211.51878356933594px;
+    left: 80px;
+    top: 31px;
+    border-radius: 0px;
+    
+    }
+    .genel{
+      height: 96px;
+      width: 100%;
+      position: absolute;
+      bottom: 95.17%;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35);  
+    }
+    .FormControl{
+    position: absolute;
+    right: 300px;
+    bottom: 1915px;
+    height: 48px;
+    width: 695px;
+    left: 445px;
+    top: 24px;
+    }
+    .basket{
+    position: absolute;
+    height: 48px;
+    width: 120px;
+    left: 1240px;
+    top: 23px;
+    border-radius: 4px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35);
+    border: 1px solid #B0B0B0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #B0B0B0;
+    bottom: 1916px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    }
+    .Badge{
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        left: 1327px;
+        /* top: 16px; */
+        top: 39px;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 100%;
+        border-radius: 100% !important;
+        /* or 12px */   
+        display: flex;
+        align-items: center;
+        text-align: center;
+        background: #2f00ff;
+        color: #FFFFFF;
+    }
+    .BasketText{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 143%;
+    /* or 24px */
+    
+    }
+    
+    .cartItem{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 20px;
+        margin-bottom: 20px;
+    }
+    
+    .cartItemImg{
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        object-fit: cover;
+    }
+    .cartItemDetail{
+        display: flex;
+        flex: 1;
+        padding: 0 20px;
+        flex-direction: column;
+    }

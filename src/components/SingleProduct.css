@@ -1,0 +1,60 @@
+.products{
+
+    width: 254px;
+    height: 465px;
+    margin-bottom: 15px;
+}
+
+.img{
+
+width: 224px;
+height: 332px;
+
+}
+.birim{
+position: absolute;
+width: 159px;
+height: 17px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+
+color: #000000;
+}
+.name{
+
+width: 230px;
+height: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+
+color: #484848;
+
+}
+.para{
+
+width: 159px;
+height: 17px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+
+color: #000000;
+
+}

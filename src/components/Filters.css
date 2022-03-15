@@ -1,0 +1,41 @@
+.filters{
+    background-color: #fff;
+    color: #646464;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 10px;
+    height: 86vh;
+}
+
+.filter>span{
+    padding-bottom: 20px;
+}
+
+.title{
+position: absolute;
+width: 62px;
+height: 21px;
+left: 82px;
+top: 199px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+    color: #484848;
+}
+.filterbutton{
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 82px;
+    top: 230px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+        color: #484848;
+}
